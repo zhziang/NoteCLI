@@ -116,7 +116,7 @@ def search(term: str):
     
     # 使用Rich创建表格
     console = Console()
-    table = Table(box=box.ROUNDED, show_header=True, header_style="bold magenta")
+    table = Table(box=box.ROUNDED, show_header=True, header_style="bold magenta", padding=(1,0))
     
     # 添加列
     table.add_column("Identifier", style="cyan", width=15)
