@@ -1,0 +1,16 @@
+# author.yaml - TeX项目作者信息
+name: "Zi-Ang Zhang"
+email: "zza@stu.pku.edu.cn"
+affiliation: "COE"
+
+# 可选字段
+# department: "数学系"
+# phone: "+86-10-12345678"
+# website: "https://www.math.pku.edu.cn"
+# orcid: "0000-0000-0000-0000"
+
+# 注意：
+# 1. 姓名：填写真实姓名或常用笔名
+# 2. 邮箱：填写有效的联系邮箱
+# 3. 所属单位：填写学校、研究机构或公司名称
+# 4. 所有字段均为字符串类型，使用双引号包裹

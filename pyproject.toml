@@ -1,7 +1,7 @@
 [project]
-name = "notecli"
+name = "cliTeXlib"
 version = "0.1.0"
-description = "A CLI tool for .md note management."
+description = "A CLI-based TeX project library."
 authors = [
     {name = "ziang-alpha",email = "zzalpha2024@163.com"}
 ]
